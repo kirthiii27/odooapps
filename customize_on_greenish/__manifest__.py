@@ -24,8 +24,9 @@
 
         # 'report/paper_format.xml',
     ],
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'application': True,
     'auto_install': False,
-    'license': 'LGPL-3',
+    'license': 'AGPL-3',
 }
