@@ -10,7 +10,7 @@
     'maintainer': 'Alan Technologies',
     'website': "https://alantechnologies.in/",
     'category': 'Invoice',
-    'summary': 'Adds Expiry Dates and Lots into Invoice/Bill Move Lines from its related stock moves',
+    'summary': 'Add the MRP in the Product and Incoice Lines ',
     'depends': ['base', 'stock', 'sale', 'account', 'purchase'],
     'data': [
         # 'security/ir.model.access.csv',
