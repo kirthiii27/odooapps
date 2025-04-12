@@ -18,7 +18,7 @@
         'views/inherit_invoice.xml',
         'views/inherit_product_template.xml',
         'views/sale_order_line.xml',
-        # 'report/inherit_invoice_report.xml',
+        'report/inherit_invoice_report.xml',
         'actions/dynamic_cash_rounding.xml',
         'report/custom_header.xml',
 
